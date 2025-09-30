@@ -23,9 +23,12 @@ d. Di dalam Packet yang sama terdapat user-agent yang memuat tools apa yang digu
 <img width="268" height="29" alt="Image" src="https://github.com/user-attachments/assets/ab6fb08d-9881-49c5-a5b0-c69d120dbd15" />  
 
 ## Soal no 15 ##
-
+Melkor menyusup ke ruang server dan memasang keyboard USB berbahaya pada node Manwe. Buka file capture dan identifikasi pesan atau ketikan (keystrokes) yang berhasil dicuri oleh Melkor untuk menemukan password rahasia.
+[link file](https://drive.google.com/drive/folders/1aHSRMoEgQBsA-4I2wWatFxAy3laumcgb) nc 10.15.43.32 3402
 
 ## Soal no 16 ##
+Melkor semakin murka ia meletakkan file berbahaya di server milik Manwe. Dari file capture yang ada, identifikasi file apa yang diletakkan oleh Melkor.
+[link file](https://drive.google.com/drive/folders/1aJf_PQGXwr4fxd79df8nd7NzL7SsN6U9) nc 10.15.43.32 3403
 
 ### Jawaban ###
 <img width="790" height="523" alt="Image" src="https://github.com/user-attachments/assets/aa675771-9432-4e0f-a337-ea5ef5957812" />        
@@ -49,6 +52,9 @@ F. <img width="559" height="34" alt="Image" src="https://github.com/user-attachm
 G. <img width="564" height="32" alt="Image" src="https://github.com/user-attachments/assets/6307d2df-b5f8-4a4c-9459-391d5b13229a" />
 
 ## Soal no 17 ##
+Manwe membuat halaman web di node-nya yang menampilkan gambar cincin agung. Melkor yang melihat web tersebut merasa iri sehingga ia meletakkan file berbahaya agar web tersebut dapat dianggap menyebarkan malware oleh Eru. Analisis file capture untuk menggagalkan rencana Melkor dan menyelamatkan web Manwe.
+[link file](https://drive.google.com/drive/folders/10UNx8BhvbyCDhHGHS7D7zmyvFbCf41ze) nc 10.15.43.32 3404
+
 
 
 ### Jawaban ###
@@ -62,6 +68,8 @@ C. Sama seperti diatas, kita harus mensave file knr.exe dulu
 <img width="648" height="38" alt="Image" src="https://github.com/user-attachments/assets/814f8bee-4f0e-440f-8460-723860c914b3" /> 
 
 ## Soal no 18 ##   
+Karena rencana Melkor yang terus gagal, ia akhirnya berhenti sejenak untuk berpikir. Pada saat berpikir ia akhirnya memutuskan untuk membuat rencana jahat lainnya dengan meletakkan file berbahaya lagi tetapi dengan metode yang berbeda. Gagalkan lagi rencana Melkor dengan mengidentifikasi file capture yang disediakan agar dunia tetap aman.
+[link file](https://drive.google.com/drive/folders/1R4-D1WnsDVrT73UlkacjY0Ntag42AFUy) nc 10.15.43.32 3405
 
 ### Jawaban ### 
 <img width="710" height="394" alt="Image" src="https://github.com/user-attachments/assets/36b4889f-5dcb-4674-960f-0c1b5f983377" />    
@@ -72,12 +80,15 @@ B.
 
 
 ## Soal no 19 ##
+Manwe mengirimkan email berisi surat cinta kepada Varda melalui koneksi yang tidak terenkripsi. Melihat hal itu Melkor sipaling jahat langsung melancarkan aksinya yaitu meneror Varda dengan email yang disamarkan. Analisis file capture jaringan dan gagalkan lagi rencana busuk Melkor.
+[link file](https://drive.google.com/drive/folders/1D6d8EYdIvE8UF_i4Ms0C7Yakd9j0GYBN) nc 10.15.43.32 3406
 
 ### Jawaban ###
 <img width="643" height="432" alt="Image" src="https://github.com/user-attachments/assets/2c976256-637c-4e54-8cb2-74df706bdf57" />
 
 ## Soal no 20 ##
-
+Untuk yang terakhir kalinya, rencana besar Melkor yaitu menanamkan sebuah file berbahaya kemudian menyembunyikannya agar tidak terlihat oleh Eru. Tetapi Manwe yang sudah merasakan adanya niat jahat dari Melkor, ia menyisipkan bantuan untuk mengungkapkan rencana Melkor. Analisis file capture dan identifikasi kegunaan bantuan yang diberikan oleh Manwe untuk menggagalkan rencana jahat Melkor selamanya.
+[link file](https://drive.google.com/drive/folders/1wOe76_DgH087tAaHH_jxsHCinwFv9pmT) nc 10.15.43.32 3407
 ### Jawaban ###
 <img width="1365" height="465" alt="Image" src="https://github.com/user-attachments/assets/7d99bf2e-1806-4fd2-837a-14f129157c5d" />
 
