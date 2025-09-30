@@ -11,20 +11,20 @@ Setelah gagal mengakses FTP, Melkor melancarkan serangan brute force terhadap  M
 [link file](https://drive.google.com/drive/folders/13rf0AlzUrkNhUWbBNt9tIVSimw3njKqd) nc 10.15.43.32 3401
 
 ### Jawaban ###
-<img width="707" height="352" alt="Image" src="https://github.com/user-attachments/assets/bb05277a-98c0-4d4b-9869-de04a6554194" />  
+![14](images/14.png) 
 
 A. Terdapat 50038 packet  
 
-<img width="284" height="63" alt="Image" src="https://github.com/user-attachments/assets/daf0b8f7-13b2-4749-8319-ecea3b31d810" /> 
+![14A](images/14A.png) 
 
 B. Pilih Packet HTTP karena biasanya memuat username, namun tdk selalu maka lakukan pengecekan dengan klik kanan -> Follow -> HTTP Stream    
-<img width="487" height="61" alt="Image" src="https://github.com/user-attachments/assets/27181cd4-5956-4170-9b96-a6cfa033b45b" />
+![14B](images/14B.png) 
 
 c. Dipacket yg sama terdapat kolom Stream di bagian kanan bawah  
-<img width="152" height="57" alt="Image" src="https://github.com/user-attachments/assets/902b2232-b25a-4793-a401-9cbd2f3c37d4" />   
+![14C](images/14C.png)   
 
 d. Di dalam Packet yang sama terdapat user-agent yang memuat tools apa yang digunakan   
-<img width="268" height="29" alt="Image" src="https://github.com/user-attachments/assets/ab6fb08d-9881-49c5-a5b0-c69d120dbd15" />  
+![14D](images/14D.png)  
 
 ## Soal no 15 ##
 Melkor menyusup ke ruang server dan memasang keyboard USB berbahaya pada node Manwe. Buka file capture dan identifikasi pesan atau ketikan (keystrokes) yang berhasil dicuri oleh Melkor untuk menemukan password rahasia.
