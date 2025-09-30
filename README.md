@@ -24,7 +24,10 @@ d. Di dalam Packet yang sama terdapat user-agent yang memuat tools apa yang digu
 
 ## Soal no 15 ##
 
+
 ## Soal no 16 ##
+
+### Jawaban ###
 <img width="790" height="523" alt="Image" src="https://github.com/user-attachments/assets/aa675771-9432-4e0f-a337-ea5ef5957812" />        
 
 A. Cari Packet FTP karena biasanya sebagai tempat login, sehingga bisa memuat username dan password client  
@@ -44,6 +47,41 @@ E. <img width="561" height="30" alt="Image" src="https://github.com/user-attachm
 F. <img width="559" height="34" alt="Image" src="https://github.com/user-attachments/assets/d2d3cdc3-a999-4753-a10b-576452fab9b8" /> 
 
 G. <img width="564" height="32" alt="Image" src="https://github.com/user-attachments/assets/6307d2df-b5f8-4a4c-9459-391d5b13229a" />
+
+## Soal no 17 ##
+
+
+### Jawaban ###
+<img width="703" height="345" alt="Image" src="https://github.com/user-attachments/assets/92fb208e-0fef-4853-9be2-b6b9488484dd" />
+
+A. Untuk menemukan suspicius file yaitu pergi ke file -> Export Object -> HTTP
+   <img width="741" height="113" alt="Image" src="https://github.com/user-attachments/assets/9641d4e5-0701-4934-869d-425dfc179f62" />  
+B. <img width="738" height="117" alt="Image" src="https://github.com/user-attachments/assets/b53287c5-0d81-4d50-99a4-96e8e9e49d07" />   
+
+C. Sama seperti diatas, kita harus mensave file knr.exe dulu
+<img width="648" height="38" alt="Image" src="https://github.com/user-attachments/assets/814f8bee-4f0e-440f-8460-723860c914b3" /> 
+
+## Soal no 18 ##   
+
+### Jawaban ### 
+<img width="710" height="394" alt="Image" src="https://github.com/user-attachments/assets/36b4889f-5dcb-4674-960f-0c1b5f983377" />    
+A. Untuk melihat file berisi malware yaitu pergi ke file -> Export Object -> SMB, nahh ciri - ciri file malware biasanya ada .exe nahh disini ada 2 file     
+<img width="740" height="225" alt="Image" src="https://github.com/user-attachments/assets/56c9a0aa-e8fd-4a0f-a5fd-f3bda5ac9508" />    
+B. 
+
+
+## Soal no 19 ##
+
+### Jawaban ###
+<img width="643" height="432" alt="Image" src="https://github.com/user-attachments/assets/2c976256-637c-4e54-8cb2-74df706bdf57" />
+
+## Soal no 20 ##
+
+### Jawaban ###
+<img width="1365" height="465" alt="Image" src="https://github.com/user-attachments/assets/7d99bf2e-1806-4fd2-837a-14f129157c5d" />
+
+
+
 
 
 
