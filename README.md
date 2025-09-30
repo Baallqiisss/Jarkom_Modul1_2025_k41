@@ -35,63 +35,61 @@ Melkor semakin murka ia meletakkan file berbahaya di server milik Manwe. Dari fi
 [link file](https://drive.google.com/drive/folders/1aJf_PQGXwr4fxd79df8nd7NzL7SsN6U9) nc 10.15.43.32 3403
 
 ### Jawaban ###
-<img width="790" height="523" alt="Image" src="https://github.com/user-attachments/assets/aa675771-9432-4e0f-a337-ea5ef5957812" />        
+![16](images/16.png)      
 
 A. Cari Packet FTP karena biasanya sebagai tempat login, sehingga bisa memuat username dan password client  
-<img width="397" height="150" alt="Image" src="https://github.com/user-attachments/assets/71b092c5-9c3d-4760-8d1c-d595820e667d" />   
+![16A](images/16A.png)    
 
 B. Salah satu ciri - ciri file malware adalah .exe dan terdapat 5 file dengan akhiran .exe ( q.exe, w.exe, e.exe, r.exe, t.exe )  
-<img width="89" height="135" alt="Image" src="https://github.com/user-attachments/assets/4da7f5c0-e1ee-4f41-9f7b-4706216a8ff2" />    
+![16B](images/16B.png)     
 
 C. Untuk mengintegritaskan file FTP-DATA ( q.exe, w.exe, e.exe, r.exe, t.exe) dengan **sha256sum** maka kita harus mengsave file packet dengan row agar dapat menyimpan payload benar - benar apa adanya (bit by bit)  
 bash : sha256sum <namafile>
 
-<img width="634" height="30" alt="Image" src="https://github.com/user-attachments/assets/5bcda994-4f82-4a12-a877-02e5aa12d0ba" />   
+![16C](images/16C.png)    
 
-D. <img width="609" height="35" alt="Image" src="https://github.com/user-attachments/assets/917457dd-0e7b-445e-97d1-d458a4e6be86" />  
+D. ![16D](images/16D.png)    
 
-E. <img width="561" height="30" alt="Image" src="https://github.com/user-attachments/assets/7b1b1cad-3543-4138-8d49-e2102c534991" /> 
+E. ![16E](images/16E.png)  
 
-F. <img width="559" height="34" alt="Image" src="https://github.com/user-attachments/assets/d2d3cdc3-a999-4753-a10b-576452fab9b8" /> 
+F.![16F](images/16F.png)   
 
-G. <img width="564" height="32" alt="Image" src="https://github.com/user-attachments/assets/6307d2df-b5f8-4a4c-9459-391d5b13229a" />
+G. ![16G](images/16G.png)  
 
 ## Soal no 17 ##
 Manwe membuat halaman web di node-nya yang menampilkan gambar cincin agung. Melkor yang melihat web tersebut merasa iri sehingga ia meletakkan file berbahaya agar web tersebut dapat dianggap menyebarkan malware oleh Eru. Analisis file capture untuk menggagalkan rencana Melkor dan menyelamatkan web Manwe.
 [link file](https://drive.google.com/drive/folders/10UNx8BhvbyCDhHGHS7D7zmyvFbCf41ze) nc 10.15.43.32 3404
 
 ### Jawaban ###
-<img width="703" height="345" alt="Image" src="https://github.com/user-attachments/assets/92fb208e-0fef-4853-9be2-b6b9488484dd" />
+![17](images/17.png)  
 
 A. Untuk menemukan suspicius file yaitu pergi ke file -> Export Object -> HTTP
-   <img width="741" height="113" alt="Image" src="https://github.com/user-attachments/assets/9641d4e5-0701-4934-869d-425dfc179f62" />  
+   ![17A](images/17A.png)    
 B.
-<img width="738" height="117" alt="Image" src="https://github.com/user-attachments/assets/b53287c5-0d81-4d50-99a4-96e8e9e49d07" />   
+![17B](images/17B.png)    
 
 C. Sama seperti diatas, kita harus mensave file knr.exe dulu
-
-<img width="648" height="38" alt="Image" src="https://github.com/user-attachments/assets/814f8bee-4f0e-440f-8460-723860c914b3" /> 
+![17C](images/17C.png)  
 
 ## Soal no 18 ##   
 Karena rencana Melkor yang terus gagal, ia akhirnya berhenti sejenak untuk berpikir. Pada saat berpikir ia akhirnya memutuskan untuk membuat rencana jahat lainnya dengan meletakkan file berbahaya lagi tetapi dengan metode yang berbeda. Gagalkan lagi rencana Melkor dengan mengidentifikasi file capture yang disediakan agar dunia tetap aman.
 [link file](https://drive.google.com/drive/folders/1R4-D1WnsDVrT73UlkacjY0Ntag42AFUy) nc 10.15.43.32 3405
 
 ### Jawaban ### 
-<img width="710" height="394" alt="Image" src="https://github.com/user-attachments/assets/36b4889f-5dcb-4674-960f-0c1b5f983377" />    
+![18](images/18.png)     
 
 A. Untuk melihat file berisi malware yaitu pergi ke file -> Export Object -> SMB, nahh ciri - ciri file malware biasanya ada .exe nahh disini ada 2 file     
-<img width="740" height="225" alt="Image" src="https://github.com/user-attachments/assets/56c9a0aa-e8fd-4a0f-a5fd-f3bda5ac9508" />    
+![18A](images/18A.png)    
 
 B. File ke 2 
 
-<img width="748" height="221" alt="Image" src="https://github.com/user-attachments/assets/ac7e469f-eb40-44d5-8563-f7d01535d93b" />  
+![18B](images/18B.png)  
 
 C.   
-<img width="603" height="38" alt="Image" src="https://github.com/user-attachments/assets/1cbf4ed9-fc56-4bcd-90b9-26cdef79d8b0" />   
+![18C](images/18C.png)   
 
 D. 
-
-<img width="599" height="44" alt="Image" src="https://github.com/user-attachments/assets/f14e7f3a-2b96-4678-ad0f-03376cb36a9c" />
+![18D](images/18D.png)   
 
 
 ## Soal no 19 ##
@@ -99,34 +97,35 @@ Manwe mengirimkan email berisi surat cinta kepada Varda melalui koneksi yang tid
 [link file](https://drive.google.com/drive/folders/1D6d8EYdIvE8UF_i4Ms0C7Yakd9j0GYBN) nc 10.15.43.32 3406
 
 ### Jawaban ###
-<img width="643" height="432" alt="Image" src="https://github.com/user-attachments/assets/2c976256-637c-4e54-8cb2-74df706bdf57" />  
+![19](images/19.png)    
 
 A. Disini saya pilih packet yg bawah bawah karena biasanya informasinya itu lebih lengkap  
-<img width="243" height="24" alt="Image" src="https://github.com/user-attachments/assets/efb6f7a3-7060-4e0f-b7f3-59d2ce95194d" />
+![19A](images/19A.png)  
 
 B. Di packet yang sama sudah terdapat informasi yang tertulis  
-<img width="350" height="33" alt="Image" src="https://github.com/user-attachments/assets/2ad9cabc-ab92-4ca2-8656-4cef971ca2a3" />a
+![19B](images/19B.png)  
 
 C. Di packet yang sama sudah terdapat informasi yang tertulis   
-<img width="432" height="45" alt="Image" src="https://github.com/user-attachments/assets/9a512e33-ecdf-4f82-981b-a09036890f01" />
+![19C](images/19C.png)  
 
 ## Soal no 20 ##
 Untuk yang terakhir kalinya, rencana besar Melkor yaitu menanamkan sebuah file berbahaya kemudian menyembunyikannya agar tidak terlihat oleh Eru. Tetapi Manwe yang sudah merasakan adanya niat jahat dari Melkor, ia menyisipkan bantuan untuk mengungkapkan rencana Melkor. Analisis file capture dan identifikasi kegunaan bantuan yang diberikan oleh Manwe untuk menggagalkan rencana jahat Melkor selamanya.
 [link file](https://drive.google.com/drive/folders/1wOe76_DgH087tAaHH_jxsHCinwFv9pmT) nc 10.15.43.32 3407
 
 ### Jawaban ###
-<img width="1365" height="465" alt="Image" src="https://github.com/user-attachments/assets/7d99bf2e-1806-4fd2-837a-14f129157c5d" />
+![20](images/20.png)  
+
 A. Jawabannya TLS karena di Wireshark terlihat protokol yang digunakan adalah TLSv1.2. TLS sendiri berfungsi mengenkripsi komunikasi (misalnya HTTP → HTTPS), sehingga data tidak terkirim dalam bentuk plain text. Jadi, encryption method yang dipakai dalam capture ini adalah TLS.
-<img width="1365" height="190" alt="Image" src="https://github.com/user-attachments/assets/72c671f7-cc33-40d1-9fc0-d2adf2cf0b63" />
+![20A](images/20A.png)  
 
 B. Nahh disini kita memerlukan file [keyslogfile.txt](https://drive.google.com/drive/folders/1wOe76_DgH087tAaHH_jxsHCinwFv9pmT), untuk membuka file tersembunyi yaitu dengan cara : 
 - Edit -> Preferences -> Protocol -> TLS -> Masukkan *keyslogfile.txt* -> Apply
 nahh baru disini keluar semua isi file tersembunyi di
 - File ->  Export Objects -> HTTP
-<img width="1364" height="305" alt="Image" src="https://github.com/user-attachments/assets/c2c5a537-192a-4ef5-87a0-4f417276c915" />
+![20B](images/20B.png)  
 
 C. 
-<img width="659" height="35" alt="Image" src="https://github.com/user-attachments/assets/790b12e0-ef59-4c96-96cb-f9ce49ec5de4" />
+![20C](images/20C.png)  
 
 
 
