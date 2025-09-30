@@ -65,6 +65,7 @@ C. Sama seperti diatas, kita harus mensave file knr.exe dulu
 
 ### Jawaban ### 
 <img width="710" height="394" alt="Image" src="https://github.com/user-attachments/assets/36b4889f-5dcb-4674-960f-0c1b5f983377" />    
+
 A. Untuk melihat file berisi malware yaitu pergi ke file -> Export Object -> SMB, nahh ciri - ciri file malware biasanya ada .exe nahh disini ada 2 file     
 <img width="740" height="225" alt="Image" src="https://github.com/user-attachments/assets/56c9a0aa-e8fd-4a0f-a5fd-f3bda5ac9508" />    
 B. 
