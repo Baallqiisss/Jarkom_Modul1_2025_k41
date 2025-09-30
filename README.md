@@ -113,8 +113,23 @@ C. Di packet yang sama sudah terdapat informasi yang tertulis
 ## Soal no 20 ##
 Untuk yang terakhir kalinya, rencana besar Melkor yaitu menanamkan sebuah file berbahaya kemudian menyembunyikannya agar tidak terlihat oleh Eru. Tetapi Manwe yang sudah merasakan adanya niat jahat dari Melkor, ia menyisipkan bantuan untuk mengungkapkan rencana Melkor. Analisis file capture dan identifikasi kegunaan bantuan yang diberikan oleh Manwe untuk menggagalkan rencana jahat Melkor selamanya.
 [link file](https://drive.google.com/drive/folders/1wOe76_DgH087tAaHH_jxsHCinwFv9pmT) nc 10.15.43.32 3407
+
 ### Jawaban ###
 <img width="1365" height="465" alt="Image" src="https://github.com/user-attachments/assets/7d99bf2e-1806-4fd2-837a-14f129157c5d" />
+A. Jawabannya TLS karena di Wireshark terlihat protokol yang digunakan adalah TLSv1.2. TLS sendiri berfungsi mengenkripsi komunikasi (misalnya HTTP → HTTPS), sehingga data tidak terkirim dalam bentuk plain text. Jadi, encryption method yang dipakai dalam capture ini adalah TLS.
+<img width="1365" height="190" alt="Image" src="https://github.com/user-attachments/assets/72c671f7-cc33-40d1-9fc0-d2adf2cf0b63" />
+
+B. Nahh disini kita memerlukan file [keyslogfile.txt](https://drive.google.com/drive/folders/1wOe76_DgH087tAaHH_jxsHCinwFv9pmT), untuk membuka file tersembunyi yaitu dengan cara : 
+- Edit -> Preferences -> Protocol -> TLS -> Masukkan *keyslogfile.txt* -> Apply
+nahh baru disini keluar semua isi file tersembunyi di
+- File ->  Export Objects -> HTTP
+<img width="1364" height="305" alt="Image" src="https://github.com/user-attachments/assets/c2c5a537-192a-4ef5-87a0-4f417276c915" />
+
+C. 
+<img width="659" height="35" alt="Image" src="https://github.com/user-attachments/assets/790b12e0-ef59-4c96-96cb-f9ce49ec5de4" />
+
+
+
 
 
 
