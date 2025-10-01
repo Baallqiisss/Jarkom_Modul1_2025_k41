@@ -6,6 +6,54 @@
 | Balqis Sani Sabillah        |  5027241002 |   
 | Alnico Virendra Kitaro Diaz |  5027241081 |
 
+## Soal no 1 ##
+Untuk mempersiapkan pembuatan entitas selain mereka, Eru yang berperan sebagai Router membuat dua Switch/Gateway. Dimana Switch 1 akan menuju ke dua Ainur yaitu Melkor dan Manwe. Sedangkan Switch 2 akan menuju ke dua Ainur lainnya yaitu Varda dan Ulmo. Keempat Ainur tersebut diberi perintah oleh Eru untuk menjadi Client.
+
+<img width="1185" height="829" alt="Screenshot 2025-10-01 203828" src="https://github.com/user-attachments/assets/ddaa6872-6673-4e2f-8bab-23fe3426bb14" />
+
+## Soal no 2 ##
+Karena menurut Eru pada saat itu Arda (Bumi) masih terisolasi dengan dunia luar, maka buat agar Eru dapat tersambung ke internet.
+
+step : 
+- apt update && apt install iptables -y
+- iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE -s 10.84.0.0/16
+- cat /etc/resolv.conf
+- echo nameserver 192.168.122.1 > /etc/resolv.conf
+
+<img width="825" height="239" alt="image" src="https://github.com/user-attachments/assets/0e7b3c9c-5daf-4bfb-a378-9c46163b6bf3" />
+
+## Soal no 3 ##
+Sekarang pastikan agar setiap Ainur (Client) dapat terhubung satu sama lain.
+
+- gunakan ip a
+
+
+<img width="895" height="435" alt="image" src="https://github.com/user-attachments/assets/b6ae2dca-d9ac-4093-ae67-108080950e30" />
+
+## Soal no 4 ##
+Setelah berhasil terhubung, sekarang Eru ingin agar setiap Ainur (Client) dapat mandiri. Oleh karena itu pastikan agar setiap Client dapat tersambung ke internet.
+
+- melkor
+<img width="732" height="122" alt="image" src="https://github.com/user-attachments/assets/0963853e-84c3-4cac-874b-4b3c8b928f68" />
+
+- manwe
+<img width="812" height="225" alt="image" src="https://github.com/user-attachments/assets/e0562463-268d-4ca1-a677-84e002b856a2" />
+
+- varda
+
+<img width="792" height="194" alt="image" src="https://github.com/user-attachments/assets/805d0d12-5284-4978-9483-2d50725944d6" />
+
+- ulmo
+<img width="778" height="209" alt="image" src="https://github.com/user-attachments/assets/dec6f69c-8d85-4ee1-8417-b3f69de7618c" />
+
+## Soal no 5 ##
+
+gunakan :
+- nano .bashrc
+lalu copy dan paste ke bagian paling bawah
+<img width="598" height="92" alt="image" src="https://github.com/user-attachments/assets/802880ab-367c-4271-962a-1fe293dae686" />
+
+
 ## Soal no 14 ##
 Setelah gagal mengakses FTP, Melkor melancarkan serangan brute force terhadap  Manwe. Analisis file capture yang disediakan dan identifikasi upaya brute force Melkor. 
 [link file](https://drive.google.com/drive/folders/13rf0AlzUrkNhUWbBNt9tIVSimw3njKqd) nc 10.15.43.32 3401
