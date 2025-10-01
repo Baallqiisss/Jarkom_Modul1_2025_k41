@@ -121,7 +121,7 @@ A. Jawabannya TLS karena di Wireshark terlihat protokol yang digunakan adalah TL
 B. Nahh disini kita memerlukan file [keyslogfile.txt](https://drive.google.com/drive/folders/1wOe76_DgH087tAaHH_jxsHCinwFv9pmT), untuk membuka file tersembunyi yaitu dengan cara : 
 - Edit -> Preferences -> Protocol -> TLS -> Masukkan *keyslogfile.txt* -> Apply
 nahh baru disini keluar semua isi file tersembunyi di
-- File ->  Export Objects -> HTTP
+- File ->  Export Objects -> HTTP  
 ![20B](images/20B.png)  
 
 C. 
