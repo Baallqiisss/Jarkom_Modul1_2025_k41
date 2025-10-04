@@ -74,9 +74,26 @@ c. Dipacket yg sama terdapat kolom Stream di bagian kanan bawah
 d. Di dalam Packet yang sama terdapat user-agent yang memuat tools apa yang digunakan   
 ![14D](images/14D.png)  
 
-## Soal no 15 ##
+## Soal no 15 (REVISI) ##
 Melkor menyusup ke ruang server dan memasang keyboard USB berbahaya pada node Manwe. Buka file capture dan identifikasi pesan atau ketikan (keystrokes) yang berhasil dicuri oleh Melkor untuk menemukan password rahasia.
 [link file](https://drive.google.com/drive/folders/1aHSRMoEgQBsA-4I2wWatFxAy3laumcgb) nc 10.15.43.32 3402
+
+### Jawaban ###
+<img width="898" height="367" alt="Image" src="https://github.com/user-attachments/assets/6001905a-dea6-449f-80d9-0b487b0dbe01" />
+
+A. Mengindentifikasi di packet - packet
+
+<img width="286" height="76" alt="Image" src="https://github.com/user-attachments/assets/eb0815b1-1f9b-47cf-b4b7-9ff31c843dcb" />
+
+B. membuat 3 file dalam 1 folder file hidden.py hiddenmsg.pcapng pyhton.py, lalu di decode menggunakan command berikut : 
+
+``` python3 CTF-Usb_Keyboard_Parser/Usb_KeyBoard_Parser.py hiddenmsg.pcap  ```
+
+<img width="367" height="403" alt="Image" src="https://github.com/user-attachments/assets/be6e6992-e23e-4cac-82bb-7ccb9f54ec50" />   
+
+c. Kita ubah base 64 ke teks
+
+<img width="394" height="271" alt="Image" src="https://github.com/user-attachments/assets/47544973-8436-4da6-9a80-bf1ef7f60ed8" />   
 
 ## Soal no 16 ##
 Melkor semakin murka ia meletakkan file berbahaya di server milik Manwe. Dari file capture yang ada, identifikasi file apa yang diletakkan oleh Melkor.
